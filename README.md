@@ -1,13 +1,8 @@
-                    _ _  __                  _ _      _    
- _ __ ___  __ _  __| (_)/ _|_   _        ___| (_) ___| | __
-| '__/ _ \/ _` |/ _` | | |_| | | |_____ / __| | |/ __| |/ /
-| | |  __/ (_| | (_| | |  _| |_| |_____| (__| | | (__|   < 
-|_|  \___|\__,_|\__,_|_|_|  \__, |      \___|_|_|\___|_|\_\
-                            |___/                          
-			    
+READIFY-CLICK. YOU CLICK! IT READIFYS! WOW!
+
 	MIT License
 
-									Copyright (c) 2025 READIFY-SURF
+									Copyright (c) 2025 READIFY-CLICK
 
 				Permission is hereby granted, free of charge, to any person obtaining a copy
 				of this software and associated documentation files (the "Software"), to deal
