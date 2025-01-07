@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "Open URL with Readify.me",
+    "version": "1.0",
+    "description": "Prepends 'http://readify.me/' to any URL and opens it in a new tab.",
+    "permissions": [
+      "contextMenus",
+      "tabs"
+    ],
+    "background": {
+      "scripts": ["background.js"],
+      "persistent": false
+    },
+    "icons": {
+      "48": "icons/icon-48.png"
+    }
+  }
+  
