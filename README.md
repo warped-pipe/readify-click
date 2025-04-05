@@ -1,4 +1,3 @@
-READIFY-CLICK. YOU CLICK! IT READIFYS! WOW!
 
 	MIT License
 
@@ -21,9 +20,10 @@ READIFY-CLICK. YOU CLICK! IT READIFYS! WOW!
 				LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 				OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 				SOFTWARE.
+
+READIFY-CLICK. YOU CLICK! IT READIFYS! WOW!
     
-> readify-click
-a firefox extension which gives option right click a link + "open link in readify.me"
+> a firefox extension which gives option right click a link + "open link in readify.me"
  to install, go to about:degugging -> this firefox -> load temp 
 
-> this started as an experiment in having GPT4 generate code. see photos contained for reference.
+> this started as an experiment in having GPT4 generate code.
